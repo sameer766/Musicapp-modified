@@ -36,8 +36,6 @@ $(document).ready(function(){
         visual.removeChild(imagee);
       }, 1000);
     });
-
-    console.log("debchbhbch");
   }
 
   const createbubble=(index)=>
